@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : " BARNABAS JETRA"
-  avatar           : " profile.png"
+  avatar           : "profile.png"
   bio              : " Studying PhD in Earth Sciences, The University of Memphis"
   location         : " Memphis, USA"
   employer         : #"TU Darmstadt"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "boris-meinardus-ba2302177"
+  linkedin         : #"boris-meinardus-ba2302177"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "@borismeinardus"
+  youtube          : #"@borismeinardus"
   wikipedia        :
 
 
