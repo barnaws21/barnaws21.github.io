@@ -5,10 +5,10 @@ main:
     url: /files/CV.pdf
 
   - title: "Research"
-    url: /Research/
+    url: /research/
   
   - title: "Projects"
-    url: /Projects/
+    url: /publications/
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
         
   # - title: "Blog Posts"
