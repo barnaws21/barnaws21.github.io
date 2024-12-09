@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GIS RESEARCH LAB"
+title                    : " GIS RESEARCH LAB"
 title_separator          : "-"
-name                     : &name "BARNABAS JETRA"
+name                     : &name " BARNABAS JETRA"
 description              : &description "personal description"
 url                      : #https://sudo-Boris.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "BARNABAS JETRA"
-  avatar           : "profile.png"
-  bio              : "Studying PhD in Earth Sciences, The University of Memphis"
-  location         : "Memphis, USA"
+  name             : " BARNABAS JETRA"
+  avatar           : " profile.png"
+  bio              : " Studying PhD in Earth Sciences, The University of Memphis"
+  location         : " Memphis, USA"
   employer         : #"TU Darmstadt"
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=UMKkDVwAAAAJ"
-  email            : "bjetra@memphis.edu"
+  email            : " bjetra@memphis.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "barnaws21"
+  github           : " barnaws21"
   google_plus      :
   keybase          :
   instagram        :
