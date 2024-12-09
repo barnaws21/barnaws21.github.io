@@ -2,13 +2,13 @@
 main:
   - title: "CV"
     # url: /cv/
-    url: /files/Resume.pdf
+    url: /files/CV.pdf
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research"
+    url: /Research/
   
-  - title: "Publications"
-    url: /publications/
+  - title: "Projects"
+    url: /Projects/
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
         
   # - title: "Blog Posts"
@@ -17,7 +17,7 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  # - title: "Teaching"
+  - title: "Teaching"
   #   url: /teaching/    
     
   # - title: "Guide"
