@@ -17,15 +17,15 @@ I am currently pursuing a PhD in Earth Sciences at the University of Memphis, ex
 
 - Hydrology,
 - Groundwater,
->Geomorphology,
->Forestry,
->GIS,
->Spatial Analysis.
+- Geomorphology,
+- Forestry,
+- GIS,
+- Spatial Analysis.
 
 ### Education
--Studying PhD in Earth Sciences,
+* Studying PhD in Earth Sciences,
 The University of Memphis, USA.
--BSc in Environmental Sceince and Resource Management,
+* BSc in Environmental Sceince and Resource Management,
 Mawlana Bhashani Science and Technology University, Bangladesh.
 
 
