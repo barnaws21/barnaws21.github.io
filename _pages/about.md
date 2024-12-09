@@ -23,8 +23,8 @@ I am currently pursuing a PhD in Earth Sciences at the University of Memphis, ex
 >Spatial Analysis.
 
 # Education
-Studying PhD in Earth Sciences/
-The University of Memphis, USA./
+Sub: " Studying PhD in Earth Sciences"
+Inst: "The University of Memphis, USA."
 BSc in Environmental Sceince and Resource Management,/
 Mawlana Bhashani Science and Technology University, Bangladesh.
 
