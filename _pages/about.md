@@ -15,8 +15,8 @@ I am currently pursuing a PhD in Earth Sciences at the University of Memphis, ex
 
 # Research Interests
 
-"Hydrology"
-"Groundwater"
+>Hydrology/b
+>Groundwater
 >Geomorphology,
 >Forestry,
 >GIS,
