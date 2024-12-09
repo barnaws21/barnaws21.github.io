@@ -51,6 +51,6 @@ Explain the wider ramifications of these effects on ecosystems, wildlife, and co
 Provide possible remedies or tactics to lessen the detrimental effects of highways on vegetation based on your research. This could involve suggestions for buffer zones, green infrastructure, or road design.
 
 
-# [Download paper here](https://arxiv.org/abs/2206.05728)
+#[Download paper here](https://arxiv.org/abs/2206.05728)
 
-# Recommended citation: L. Kastner et. al. (2022) "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments" Robotics and Automation Letters.
+#Recommended citation: L. Kastner et. al. (2022) "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments" Robotics and Automation Letters.
