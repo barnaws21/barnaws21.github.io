@@ -16,16 +16,16 @@ Steps to Work on the Project:
 Choose the region or geographic area you wish to research. A national park, a particular urban or rural location, or a biodiversity hotspot where roads meet natural landscapes could be examples of this.
 Obtain spatial information about the vegetation cover and roadways in this research area.
 
-2. Collect Data:
+2. Collect Data:  
 Road Data: Access road network data, typically in the form of GeoJSON or Shapefiles. These might come from satellite images, open data sources (like OpenStreetMap), or government transportation bureaus.
 Vegetation Data: Acquire information on the amount of vegetation. This could include data from field surveys that identify various plant types or data from remote sensing photography (like Landsat) that classifies land cover.
 Other Environmental Data: Take into account any pertinent environmental data, such as terrain, soil type, elevation, and climate, that may have an impact on vegetation.
 
-3. Preprocess Data:
+3. Preprocess Data:  
 Make that the vegetation and road datasets are in projections and formats that work together. If required, re-project them.
 Remove any faulty or unnecessary data points from the datasets to clean them up.
 
-4. Buffer Creation:
+4. Buffer Creation: 
 Road networks can be surrounded by buffer zones created using GIS software (like ArcGIS or QGIS). To assess the effects of varying road proximity on vegetation, buffers can be established at varied distances (e.g., 100, 500, and 1 km).
 To create these zones, use GIS tools such as the Buffer Tool.
 
