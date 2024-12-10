@@ -1,5 +1,5 @@
 ---
-title: "RCPPO"
+title: " My Undergraduate Thesis: Morphometric Analysis of the Someshwari River Using Geographical Information System(GIS)"
 excerpt: "Implementation of RCPO into stable-baselines3 PPO. <br/><img src='/images/RCPPO.png'>"
 collection: portfolio
 ---
