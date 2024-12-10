@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience"
+title: "Graduate Teaching Assistant Experience"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course: ESCI 1010(104,106 section)-Weather and Climate Change Lab"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Memphis, Earth Sciences"
-#date: 8-26-2024
+start date: 8-26-2024 to
 location: "Memphis, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Responsibilities my teaching experience- 
 
-Heading 1
+Supporting Lab Exercises and Activities
 ======
 
-Heading 2
+Providing Feedback and Grading
 ======
 
-Heading 3
+Maintaining Lab Equipment
 ======
