@@ -51,6 +51,6 @@ Explain the wider ramifications of these effects on ecosystems, wildlife, and co
 Provide possible remedies or tactics to lessen the detrimental effects of highways on vegetation based on my research. This could involve suggestions for buffer zones, green infrastructure, or road design.
 
 
-#[GIS Final Projec Code here](https://github.com/barnaws21/GIS_Project_Code/blob/7cfc8a3c0ddb76795524461a6e2e994e9bdb5624/Final_project(Jetra).ipynb)
+#[GIS Final Project Code here](https://github.com/barnaws21/GIS_Project_Code/blob/7cfc8a3c0ddb76795524461a6e2e994e9bdb5624/Final_project(Jetra).ipynb)
 
 
